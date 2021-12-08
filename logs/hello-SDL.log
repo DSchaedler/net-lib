@@ -1,0 +1,537 @@
+* 000000 [Engine] Log started at 2021/12/8 8:22:15
+* 000000 [Engine] This copy of the engine is git hash a303cc388370e8f8d41b2fb6878f7e3716d77b9d, built on Dec  4 2021, at 16:40:22
+* 000000 [Engine] Platform: Windows
+- 000000 [Engine] Game ID: hello-SDL
+- 000000 [Engine] Game title: Update metadata/game_metadata.txt in your mygame directory to change this title.
+- 000000 [Engine] Game version: 1.0
+- 000000 [Engine] Game package ID: 
+- 000000 [Engine] Game Developer ID: dragonruby
+- 000000 [Engine] Game Developer title: DragonRuby LLC
+- 000000 [Engine] Production build: no
+? 000000 [Engine] RNG seed has been set to 1638969735.
+? 000000 [Engine] Marked app/main.rb for reload. (-1)
+- 000001 [HTTP] [00000000026C6AC0] Starting HTTP POST for 'http://localhost:9001/testing'
+? 000001 [HTTP] User agent: 'DragonRuby-dragonruby-hello-SDL/1.0 (Windows)'
+? 000001 [HTTP] [00000000026C6AC0] Request header: 'Content-Type: application/x-www-form-urlencoded'
+? 000001 [HTTP] [00000000026C6AC0] Request mimetype: ' application/x-www-form-urlencoded'
+? 000001 [HTTPServer] New HTTP connection from ::1!
+- 000001 [Game] * HTTPRequest
+** id
+1638969736-195688-156556-171396
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/x-www-form-urlencoded
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+17
+*** Host
+localhost:9001
+** raw_body
+userId=1638969736
+** body
+userId=1638969736
+
+- 000001 [Game] * HTTPRequest
+** id
+1638969736-195688-156556-171396
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/x-www-form-urlencoded
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+17
+*** Host
+localhost:9001
+** raw_body
+userId=1638969736
+** body
+userId=1638969736
+
+? 000001 [HTTP] [00000000026C6AC0] Handle is closed, cleaning up.
+? 000001 [HTTP] [00000000026C6AC0] Response header: 'Connection: close'
+? 000001 [HTTP] [00000000026C6AC0] Response header: 'Content-Length: 2'
+? 000001 [HTTP] [00000000026C6AC0] Response header: 'Content-Type: text/html; charset=utf-8'
+? 000001 [HTTP] [00000000026C6AC0] Response header: 'Server: dragonruby-httpd/a303cc388370e8f8d41b2fb6878f7e3716d77b9d'
+- 000001 [HTTP] [00000000026C6AC0] Response complete! (response code: 200)
+- 000002 [HTTP] [00000000026C6940] Starting HTTP POST (with body) for 'http://localhost:9001/testing'
+? 000002 [HTTP] [00000000026C6940] Request header: 'Content-Type: application/json'
+? 000002 [HTTP] [00000000026C6940] Request header: 'Content-Length: 25'
+? 000002 [HTTP] [00000000026C6940] Request mimetype: ' application/json'
+? 000002 [HTTPServer] New HTTP connection from ::1!
+- 000002 [Game] * HTTPRequest
+** id
+1638969737-110942-143689-151525
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/json
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+25
+*** Host
+localhost:9001
+** raw_body
+{ "userId": "1638969737"}
+** body
+{ "userId": "1638969737"}
+
+- 000002 [Game] * HTTPRequest
+** id
+1638969737-110942-143689-151525
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/json
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+25
+*** Host
+localhost:9001
+** raw_body
+{ "userId": "1638969737"}
+** body
+{ "userId": "1638969737"}
+
+? 000002 [HTTP] [00000000026C6940] Handle is closed, cleaning up.
+? 000002 [HTTP] [00000000026C6940] Response header: 'Connection: close'
+? 000002 [HTTP] [00000000026C6940] Response header: 'Content-Length: 2'
+? 000002 [HTTP] [00000000026C6940] Response header: 'Content-Type: text/html; charset=utf-8'
+? 000002 [HTTP] [00000000026C6940] Response header: 'Server: dragonruby-httpd/a303cc388370e8f8d41b2fb6878f7e3716d77b9d'
+- 000002 [HTTP] [00000000026C6940] Response complete! (response code: 200)
+- 000003 [HTTP] [00000000026C6700] Starting HTTP POST for 'http://localhost:9001/testing'
+? 000003 [HTTP] [00000000026C6700] Request header: 'Content-Type: application/x-www-form-urlencoded'
+? 000003 [HTTP] [00000000026C6700] Request mimetype: ' application/x-www-form-urlencoded'
+? 000003 [HTTPServer] New HTTP connection from ::1!
+- 000003 [Game] * HTTPRequest
+** id
+1638969738-192803-158621-135058
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/x-www-form-urlencoded
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+17
+*** Host
+localhost:9001
+** raw_body
+userId=1638969738
+** body
+userId=1638969738
+
+- 000003 [Game] * HTTPRequest
+** id
+1638969738-192803-158621-135058
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/x-www-form-urlencoded
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+17
+*** Host
+localhost:9001
+** raw_body
+userId=1638969738
+** body
+userId=1638969738
+
+? 000003 [HTTP] [00000000026C6700] Handle is closed, cleaning up.
+? 000003 [HTTP] [00000000026C6700] Response header: 'Connection: close'
+? 000003 [HTTP] [00000000026C6700] Response header: 'Content-Length: 2'
+? 000003 [HTTP] [00000000026C6700] Response header: 'Content-Type: text/html; charset=utf-8'
+? 000003 [HTTP] [00000000026C6700] Response header: 'Server: dragonruby-httpd/a303cc388370e8f8d41b2fb6878f7e3716d77b9d'
+- 000003 [HTTP] [00000000026C6700] Response complete! (response code: 200)
+- 000004 [HTTP] [00000000026C6700] Starting HTTP POST (with body) for 'http://localhost:9001/testing'
+? 000004 [HTTP] [00000000026C6700] Request header: 'Content-Type: application/json'
+? 000004 [HTTP] [00000000026C6700] Request header: 'Content-Length: 25'
+? 000004 [HTTP] [00000000026C6700] Request mimetype: ' application/json'
+? 000004 [HTTPServer] New HTTP connection from ::1!
+- 000004 [Game] * HTTPRequest
+** id
+1638969739-135235-167669-112140
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/json
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+25
+*** Host
+localhost:9001
+** raw_body
+{ "userId": "1638969739"}
+** body
+{ "userId": "1638969739"}
+
+- 000004 [Game] * HTTPRequest
+** id
+1638969739-135235-167669-112140
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/json
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+25
+*** Host
+localhost:9001
+** raw_body
+{ "userId": "1638969739"}
+** body
+{ "userId": "1638969739"}
+
+? 000004 [HTTP] [00000000026C6700] Handle is closed, cleaning up.
+? 000004 [HTTP] [00000000026C6700] Response header: 'Connection: close'
+? 000004 [HTTP] [00000000026C6700] Response header: 'Content-Length: 2'
+? 000004 [HTTP] [00000000026C6700] Response header: 'Content-Type: text/html; charset=utf-8'
+? 000004 [HTTP] [00000000026C6700] Response header: 'Server: dragonruby-httpd/a303cc388370e8f8d41b2fb6878f7e3716d77b9d'
+- 000004 [HTTP] [00000000026C6700] Response complete! (response code: 200)
+? 000009 [HTTPServer] New HTTP connection from ::1!
+- 000009 [Game] * HTTPRequest
+** id
+1638969745-103002-104150-140028
+** uri
+/
+** address
+::1
+** method
+GET
+** headers
+*** Host
+localhost:9001
+*** Connection
+keep-alive
+*** Cache-Control
+max-age=0
+*** sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+*** sec-ch-ua-mobile
+?0
+*** sec-ch-ua-platform
+"Windows"
+*** DNT
+1
+*** Upgrade-Insecure-Requests
+1
+*** User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+*** Accept
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+*** Sec-Fetch-Site
+none
+*** Sec-Fetch-Mode
+navigate
+*** Sec-Fetch-User
+?1
+*** Sec-Fetch-Dest
+document
+*** Accept-Encoding
+gzip, deflate, br
+*** Accept-Language
+en-US,en;q=0.9
+** raw_body
+
+** body
+
+
+? 000009 [HTTPServer] New HTTP connection from ::1!
+- 000010 [Game] * HTTPRequest
+** id
+1638969745-173428-196252-136046
+** uri
+/favicon.ico
+** address
+::1
+** method
+GET
+** headers
+*** Host
+localhost:9001
+*** Connection
+keep-alive
+*** sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+*** DNT
+1
+*** sec-ch-ua-mobile
+?0
+*** User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+*** sec-ch-ua-platform
+"Windows"
+*** Accept
+image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+*** Sec-Fetch-Site
+same-origin
+*** Sec-Fetch-Mode
+no-cors
+*** Sec-Fetch-Dest
+image
+*** Referer
+http://localhost:9001/
+*** Accept-Encoding
+gzip, deflate, br
+*** Accept-Language
+en-US,en;q=0.9
+** raw_body
+
+** body
+
+
+? 000010 [HTTPServer] New HTTP connection from ::1!
+- 000010 [Game] * HTTPRequest
+** id
+1638969745-112241-143588-144268
+** uri
+/
+** address
+::1
+** method
+GET
+** headers
+*** Host
+localhost:9001
+*** Connection
+keep-alive
+*** Cache-Control
+max-age=0
+*** sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+*** sec-ch-ua-mobile
+?0
+*** sec-ch-ua-platform
+"Windows"
+*** DNT
+1
+*** Upgrade-Insecure-Requests
+1
+*** User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+*** Accept
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+*** Sec-Fetch-Site
+none
+*** Sec-Fetch-Mode
+navigate
+*** Sec-Fetch-User
+?1
+*** Sec-Fetch-Dest
+document
+*** Accept-Encoding
+gzip, deflate, br
+*** Accept-Language
+en-US,en;q=0.9
+** raw_body
+
+** body
+
+
+? 000010 [HTTPServer] New HTTP connection from ::1!
+- 000010 [Game] * HTTPRequest
+** id
+1638969745-156837-163304-103788
+** uri
+/favicon.ico
+** address
+::1
+** method
+GET
+** headers
+*** Host
+localhost:9001
+*** Connection
+keep-alive
+*** sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+*** DNT
+1
+*** sec-ch-ua-mobile
+?0
+*** User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+*** sec-ch-ua-platform
+"Windows"
+*** Accept
+image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+*** Sec-Fetch-Site
+same-origin
+*** Sec-Fetch-Mode
+no-cors
+*** Sec-Fetch-Dest
+image
+*** Referer
+http://localhost:9001/
+*** Accept-Encoding
+gzip, deflate, br
+*** Accept-Language
+en-US,en;q=0.9
+** raw_body
+
+** body
+
+
+? 000012 [HTTPServer] New HTTP connection from ::1!
+- 000012 [Game] * HTTPRequest
+** id
+1638969747-182342-114895-184740
+** uri
+/dragon/code/
+** address
+::1
+** method
+GET
+** headers
+*** Host
+localhost:9001
+*** Connection
+keep-alive
+*** sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+*** sec-ch-ua-mobile
+?0
+*** sec-ch-ua-platform
+"Windows"
+*** Upgrade-Insecure-Requests
+1
+*** DNT
+1
+*** User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+*** Accept
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+*** Sec-Fetch-Site
+same-origin
+*** Sec-Fetch-Mode
+navigate
+*** Sec-Fetch-User
+?1
+*** Sec-Fetch-Dest
+document
+*** Referer
+http://localhost:9001/
+*** Accept-Encoding
+gzip, deflate, br
+*** Accept-Language
+en-US,en;q=0.9
+** raw_body
+
+** body
+
+
+? 000012 [HTTPServer] New HTTP connection from ::1!
+? 000014 [HTTPServer] New HTTP connection from ::1!
+- 000014 [Game] * HTTPRequest
+** id
+1638969749-153009-142664-128471
+** uri
+/dragon/code/edit/?file=app/main.rb
+** address
+::1
+** method
+GET
+** headers
+*** Host
+localhost:9001
+*** Connection
+keep-alive
+*** sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+*** sec-ch-ua-mobile
+?0
+*** sec-ch-ua-platform
+"Windows"
+*** Upgrade-Insecure-Requests
+1
+*** DNT
+1
+*** User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+*** Accept
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+*** Sec-Fetch-Site
+same-origin
+*** Sec-Fetch-Mode
+navigate
+*** Sec-Fetch-User
+?1
+*** Sec-Fetch-Dest
+document
+*** Referer
+http://localhost:9001/dragon/code/
+*** Accept-Encoding
+gzip, deflate, br
+*** Accept-Language
+en-US,en;q=0.9
+** raw_body
+
+** body
+
+
+* 000036 [Engine] Logging shutting down

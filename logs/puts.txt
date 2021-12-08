@@ -1,0 +1,474 @@
+* HTTPRequest
+** id
+1638969736-195688-156556-171396
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/x-www-form-urlencoded
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+17
+*** Host
+localhost:9001
+** raw_body
+userId=1638969736
+** body
+userId=1638969736
+
+* HTTPRequest
+** id
+1638969736-195688-156556-171396
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/x-www-form-urlencoded
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+17
+*** Host
+localhost:9001
+** raw_body
+userId=1638969736
+** body
+userId=1638969736
+
+* HTTPRequest
+** id
+1638969737-110942-143689-151525
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/json
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+25
+*** Host
+localhost:9001
+** raw_body
+{ "userId": "1638969737"}
+** body
+{ "userId": "1638969737"}
+
+* HTTPRequest
+** id
+1638969737-110942-143689-151525
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/json
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+25
+*** Host
+localhost:9001
+** raw_body
+{ "userId": "1638969737"}
+** body
+{ "userId": "1638969737"}
+
+* HTTPRequest
+** id
+1638969738-192803-158621-135058
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/x-www-form-urlencoded
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+17
+*** Host
+localhost:9001
+** raw_body
+userId=1638969738
+** body
+userId=1638969738
+
+* HTTPRequest
+** id
+1638969738-192803-158621-135058
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/x-www-form-urlencoded
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+17
+*** Host
+localhost:9001
+** raw_body
+userId=1638969738
+** body
+userId=1638969738
+
+* HTTPRequest
+** id
+1638969739-135235-167669-112140
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/json
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+25
+*** Host
+localhost:9001
+** raw_body
+{ "userId": "1638969739"}
+** body
+{ "userId": "1638969739"}
+
+* HTTPRequest
+** id
+1638969739-135235-167669-112140
+** uri
+/testing
+** address
+::1
+** method
+POST
+** headers
+*** Connection
+Keep-Alive
+*** Content-Type
+application/json
+*** User-Agent
+DragonRuby-dragonruby-hello-SDL/1.0 (Windows)
+*** Content-Length
+25
+*** Host
+localhost:9001
+** raw_body
+{ "userId": "1638969739"}
+** body
+{ "userId": "1638969739"}
+
+* HTTPRequest
+** id
+1638969745-103002-104150-140028
+** uri
+/
+** address
+::1
+** method
+GET
+** headers
+*** Host
+localhost:9001
+*** Connection
+keep-alive
+*** Cache-Control
+max-age=0
+*** sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+*** sec-ch-ua-mobile
+?0
+*** sec-ch-ua-platform
+"Windows"
+*** DNT
+1
+*** Upgrade-Insecure-Requests
+1
+*** User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+*** Accept
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+*** Sec-Fetch-Site
+none
+*** Sec-Fetch-Mode
+navigate
+*** Sec-Fetch-User
+?1
+*** Sec-Fetch-Dest
+document
+*** Accept-Encoding
+gzip, deflate, br
+*** Accept-Language
+en-US,en;q=0.9
+** raw_body
+
+** body
+
+
+* HTTPRequest
+** id
+1638969745-173428-196252-136046
+** uri
+/favicon.ico
+** address
+::1
+** method
+GET
+** headers
+*** Host
+localhost:9001
+*** Connection
+keep-alive
+*** sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+*** DNT
+1
+*** sec-ch-ua-mobile
+?0
+*** User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+*** sec-ch-ua-platform
+"Windows"
+*** Accept
+image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+*** Sec-Fetch-Site
+same-origin
+*** Sec-Fetch-Mode
+no-cors
+*** Sec-Fetch-Dest
+image
+*** Referer
+http://localhost:9001/
+*** Accept-Encoding
+gzip, deflate, br
+*** Accept-Language
+en-US,en;q=0.9
+** raw_body
+
+** body
+
+
+* HTTPRequest
+** id
+1638969745-112241-143588-144268
+** uri
+/
+** address
+::1
+** method
+GET
+** headers
+*** Host
+localhost:9001
+*** Connection
+keep-alive
+*** Cache-Control
+max-age=0
+*** sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+*** sec-ch-ua-mobile
+?0
+*** sec-ch-ua-platform
+"Windows"
+*** DNT
+1
+*** Upgrade-Insecure-Requests
+1
+*** User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+*** Accept
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+*** Sec-Fetch-Site
+none
+*** Sec-Fetch-Mode
+navigate
+*** Sec-Fetch-User
+?1
+*** Sec-Fetch-Dest
+document
+*** Accept-Encoding
+gzip, deflate, br
+*** Accept-Language
+en-US,en;q=0.9
+** raw_body
+
+** body
+
+
+* HTTPRequest
+** id
+1638969745-156837-163304-103788
+** uri
+/favicon.ico
+** address
+::1
+** method
+GET
+** headers
+*** Host
+localhost:9001
+*** Connection
+keep-alive
+*** sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+*** DNT
+1
+*** sec-ch-ua-mobile
+?0
+*** User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+*** sec-ch-ua-platform
+"Windows"
+*** Accept
+image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+*** Sec-Fetch-Site
+same-origin
+*** Sec-Fetch-Mode
+no-cors
+*** Sec-Fetch-Dest
+image
+*** Referer
+http://localhost:9001/
+*** Accept-Encoding
+gzip, deflate, br
+*** Accept-Language
+en-US,en;q=0.9
+** raw_body
+
+** body
+
+
+* HTTPRequest
+** id
+1638969747-182342-114895-184740
+** uri
+/dragon/code/
+** address
+::1
+** method
+GET
+** headers
+*** Host
+localhost:9001
+*** Connection
+keep-alive
+*** sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+*** sec-ch-ua-mobile
+?0
+*** sec-ch-ua-platform
+"Windows"
+*** Upgrade-Insecure-Requests
+1
+*** DNT
+1
+*** User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+*** Accept
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+*** Sec-Fetch-Site
+same-origin
+*** Sec-Fetch-Mode
+navigate
+*** Sec-Fetch-User
+?1
+*** Sec-Fetch-Dest
+document
+*** Referer
+http://localhost:9001/
+*** Accept-Encoding
+gzip, deflate, br
+*** Accept-Language
+en-US,en;q=0.9
+** raw_body
+
+** body
+
+
+* HTTPRequest
+** id
+1638969749-153009-142664-128471
+** uri
+/dragon/code/edit/?file=app/main.rb
+** address
+::1
+** method
+GET
+** headers
+*** Host
+localhost:9001
+*** Connection
+keep-alive
+*** sec-ch-ua
+" Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"
+*** sec-ch-ua-mobile
+?0
+*** sec-ch-ua-platform
+"Windows"
+*** Upgrade-Insecure-Requests
+1
+*** DNT
+1
+*** User-Agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36
+*** Accept
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+*** Sec-Fetch-Site
+same-origin
+*** Sec-Fetch-Mode
+navigate
+*** Sec-Fetch-User
+?1
+*** Sec-Fetch-Dest
+document
+*** Referer
+http://localhost:9001/dragon/code/
+*** Accept-Encoding
+gzip, deflate, br
+*** Accept-Language
+en-US,en;q=0.9
+** raw_body
+
+** body
+
+
