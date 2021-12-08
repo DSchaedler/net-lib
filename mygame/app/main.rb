@@ -1,6 +1,10 @@
-def tick args
-  args.outputs.labels  << [640, 500, 'Hello World!', 5, 1]
-  args.outputs.labels  << [640, 460, 'Go to docs/docs.html and read it!', 5, 1]
-  args.outputs.labels  << [640, 420, 'Join the Discord! http://discord.dragonruby.org', 5, 1]
-  args.outputs.sprites << [576, 280, 128, 101, 'dragonruby.png']
+# frozen_string_literal: true
+
+require 'app/net_lib.rb'
+require 'app/server.rb'
+require 'app/client.rb'
+
+def tick(args) # rubocop:disable Lint/UnusedMethodArgument
+  args.state.nl_server ||= NLServer.new
+  args.state.cl_client ||= NLClient.new
 end

@@ -1,6 +1,7 @@
 .dragonruby/
 docs/
 include/
+logs/
 samples/
 tmp/
 CHANGELOG-CURR.txt
