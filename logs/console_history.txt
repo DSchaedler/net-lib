@@ -1,9 +1,0 @@
-$gtk.grep_source [".args", '']
-$gtk.reset seed: 1638987113
-$gtk.reset seed: 1638983186
-$gtk.reset seed: 1638982426
-$gtk.reset seed: 1638974076
-$gtk.reset seed: 1638973993
-$gtk.grep_source [".net_lib", '']
-$replay.start 'replay.txt'
-$gtk.reset seed: 1638983656
