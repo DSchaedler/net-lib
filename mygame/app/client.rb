@@ -16,6 +16,7 @@ class NLClient
   def tick(args)
     if @state_age >= @download_timeout
       @state_download = get_json(url: @server_url, port: @server_port, channel: 'state')
+      $gtk.log_debug "#{NL_C_PRE}http response code: #{@state_download[:http_response_code]}"
       @state_age = 0
     end
 
